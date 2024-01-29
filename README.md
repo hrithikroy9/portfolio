@@ -1,2 +1,6 @@
-# P2
-# portfolio
+
+# portfolio project
+
+Stack used :
+
+HTML, JS
